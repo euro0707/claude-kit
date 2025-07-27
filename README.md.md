@@ -48,3 +48,13 @@ MIT License
 - .claude/settings.json
 - SECURITY.md
 - Claude起動テンプレ.md
+# claude-kit
+
+Claude Code の起動テンプレやセキュリティチェックガイドなどをまとめたリポジトリです。
+
+## 🔗 ファイル一覧
+
+- [Claude起動テンプレ.md](Claude起動テンプレ.md)
+- [セキュリティ.md](SECURITY.md)
+- [Claudeプロンプト集.md](Claudeプロンプト集.md)
+- [settings.json](settings.json)
