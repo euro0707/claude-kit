@@ -1,0 +1,18 @@
+"files": [
+  {
+    "name": "README.md",
+    "content": "# Claude Code Starter\n\nこのプロジェクトは Claude Code 向けのテンプレートです。\n初期設定・プロンプト・セキュリティチェックが含まれています。"
+  },
+  {
+    "name": "StartupTemplate.md",
+    "content": "## Claude起動テンプレート\n\nこのファイルはClaudeに与える初期指示をテンプレ化したものです。"
+  },
+  {
+    "name": "ClaudePrompt.md",
+    "content": "## Claudeプロンプト集\n\n汎用性のある指示文やプロンプトをまとめています。"
+  },
+  {
+    "name": "SECURITY.md",
+    "content": "## セキュリティガイド\n\nノーコード／ローコードアプリにおける12のセキュリティチェック項目。"
+  }
+]
